@@ -17,7 +17,7 @@ Microsoft support and assistance
 
 <p align="center">
 Launching Microsoft suppport and assistance  : <br/>
-<img src="https://imgur.com/MIWX9hrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Slecting the issue related to outlook that needs troubleshooting : <br/>
