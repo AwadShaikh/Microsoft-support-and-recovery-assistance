@@ -17,15 +17,15 @@ Microsoft support and assistance
 
 <p align="center">
 Launching Microsoft suppport and assistance  : <br/>
-<img src="https://imgur.com/7fcj9J9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7fcj9J9.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Slecting the issue related to outlook that needs troubleshooting : <br/>
-<img src="https://imgur.com/vSckEtT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vSckEtT.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Troubleshooting the issue related to outlook that won't start  : <br/>
-<img src="https://imgur.com/kWfVTtD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kWfVTtD.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
